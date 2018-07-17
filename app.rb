@@ -12,4 +12,5 @@ end
 	
 	get '/info' do 
 	  erb :info
+	end 
 end
